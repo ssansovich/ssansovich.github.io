@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Scott Sansovich</title>
+    <link>http://scottsansovich.com/posts/</link>
+    <description>Recent content in Posts on Scott Sansovich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://scottsansovich.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://scottsansovich.com/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://scottsansovich.com/posts/my-first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit Mauris ornare mauris vitae odio fringilla aliquam. Vivamus sed semper justo, eu feugiat quam. Donec vel purus sed quam molestie vestibulum sit amet eu lectus. Sed id diam lorem. Vestibulum feugiat finibus luctus. Fusce et metus ut erat sagittis cursus et vitae leo. Sed turpis nisl, venenatis suscipit enim et, gravida lobortis libero. Nam pretium magna quis dolor maximus tristique eu id nibh.</description>
+    </item>
+    
+  </channel>
+</rss>

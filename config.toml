@@ -1,0 +1,14 @@
+baseURL = "http://scottsansovich.com/"
+languageCode = "en-us"
+title = "Scott Sansovich"
+theme = "sls"
+publishDir = "docs"
+
+[[menu.main]]
+    name = "All posts"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/scottsansovich"
+    weight = 2
